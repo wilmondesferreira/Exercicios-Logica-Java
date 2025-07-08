@@ -123,7 +123,7 @@ vi.  Nome da mulher mais baixa
 java-exercicios/
 ├── README.md
 └── src/
-    ├── Exercicio01_MediaAritmetica.java
+    ├── Exercicio02_MediaAritmetica.java
     ├── Exercicio02_MediaPonderada.java
     ├── Exercicio03_Salario.java
     ├── Exercicio04_ConceitoAluno.java
@@ -146,13 +146,13 @@ java-exercicios/
 ### Compilar
 
 ```bash
-javac src/Exercicio01_MediaAritmetica.java
+javac src/Exercicio02_MediaAritmetica.java
 ```
 
 ### Executar
 
 ```bash
-java -cp src Exercicio01_MediaAritmetica
+java -cp src Exercicio01_MediaPonderada
 ```
 
 ---
